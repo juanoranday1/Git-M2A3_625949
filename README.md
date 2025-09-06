@@ -1,1 +1,1 @@
-# Git-M2A3_625949
+# Tarea: HTML semántico y validación con W3C. Reescribí mi página utilizando etiquetas semánticas como header, nav, main, article, aside, footer, time, abbr, blockquote y cite. Adjunto el archivo pagina_semantica.html y la captura de pantalla validacion_w3c.png.
